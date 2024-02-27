@@ -1,3 +1,18 @@
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <img src="img/Github-Logo.png" alt="Github-Logo">
+  </picture><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
+    <img width="50%" src="img/Github-Text.png" alt="Github-Text">
+  </picture>
+</div>
+
+<br>
+
 # Complete list of all GitHub Profile badges and Achievements
 
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
@@ -111,4 +126,4 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 ## Do you have some ideas?
 
-If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/github-profile-achievements/template/issues).
+If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/Github-Profile-Achievements/issues).
