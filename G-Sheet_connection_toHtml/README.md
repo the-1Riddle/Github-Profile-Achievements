@@ -135,8 +135,9 @@ On the above screen, click on the **Setting icon**, then select **`Web App`**. A
 
 Using the script in this way is not safe, there are security issues, that is why here Google gives you a warning and informs you that whatever you are doing is unsafe, still if you want to authorize it then select the (unsafe) option by clicking advanced then `go to unsafe`.
 
-  ![xyz](https://github.com/user-attachments/assets/438de53c-624c-471c-ae52-71b77c8ab89d)
-  ![Capture8](https://github.com/user-attachments/assets/22d31b79-e16d-4e20-a41f-5f08f8acc71b)
+  |||
+  |--|--|
+  |![xyz](https://github.com/user-attachments/assets/438de53c-624c-471c-ae52-71b77c8ab89d)|![Capture8](https://github.com/user-attachments/assets/22d31b79-e16d-4e20-a41f-5f08f8acc71b)|
 
 After giving all the permissions, you are finally provided with a web app URL. You have to copy this link, and the work of Apps Script will be over. Now you have to go to the HTML Form that you created first to connect it with the app script.
 
