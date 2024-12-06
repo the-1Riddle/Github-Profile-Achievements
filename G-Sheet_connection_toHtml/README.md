@@ -11,7 +11,7 @@ This guide will show you how to connect an HTML form to Google Sheets to store s
 - Step 2: [Create a Google Sheet and Add Apps Script](#step-2-create-a-google-sheet-and-add-apps-script)
 - Step 3: [Deploy Apps Script](#step-3-deploy-apps-script)
 - Step 4: [Connect Apps Script Link to Form Action](#step-4-connect-apps-script-link-to-form-action)
-- [Conclusion](#conclusion)
+- Step 5: [Conclusion](#conclusion)
 
 ## Step 1: Create an HTML Form
 
